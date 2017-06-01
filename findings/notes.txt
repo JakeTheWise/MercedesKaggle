@@ -1,0 +1,6 @@
+--------- Jake's findings ---------
+No missing values
+len(train) = len(test) = 4209
+IDs are unique and run from 0 to 8417 between train and test
+train and test both have multiple columns of constant value, but they aren't the same columns
+-----------------------------------
