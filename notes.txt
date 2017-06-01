@@ -1,5 +1,0 @@
---------- Jake's findings ---------
-No missing values
-len(train) = len(test) = 4209
-train and test both have multiple columns of constant value, but they aren't the same columns
------------------------------------
